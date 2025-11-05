@@ -1,0 +1,26 @@
+body{
+    background-image:url('great\ wall\ of\ china.png');
+}
+h2{
+    font-style: italic;
+}
+a{
+    font-style: italic;
+    font-size: xx-large;
+}
+.head{
+    background-color: rgb(2, 13, 23);
+    font-style:oblique;
+    width: 130px;
+
+    
+    
+}
+.head:hover{
+   color: aqua;
+   font-style: oblique;
+   transition-duration: 0.5s;
+
+}
+
+
